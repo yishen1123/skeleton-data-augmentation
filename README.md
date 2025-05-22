@@ -1,5 +1,5 @@
 # Data augmentation
-<h2 align="center">Data Augmentation Results</h2>
+<h2 align="center">Sameple Results</h2>
 <table align="center">
   <tr>
     <td align="center">
